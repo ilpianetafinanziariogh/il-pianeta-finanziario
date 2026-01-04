@@ -43,9 +43,9 @@ export const courseSections: CourseSection[] = [
         longDescription: "Un viaggio trasformativo di 7 giorni in barca a vela nel Mediterraneo. Unisci l'avventura della navigazione a sessioni intensive di crescita personale e finanziaria. Imparerai a prendere decisioni sotto pressione, a lavorare in team e a sviluppare una visione chiara per il tuo futuro finanziario."
       },
       {
-        slug: "ritiro-mindset-intensivo",
-        title: "Ritiro Mindset Intensivo",
-        img: "https://images.unsplash.com/photo-1519801584609-8ee5f072eddd?q=80&w=1200&auto=format&fit=crop",
+        slug: "viaggio-barca-vela",
+        title: "Viaggio formativo in barca alle canarie",
+        img: "barca2.jpg",
         desc: "3 giorni di full immersion per trasformare la tua mentalità.",
         price: "€799",
         category: "viaggi-formativi",
