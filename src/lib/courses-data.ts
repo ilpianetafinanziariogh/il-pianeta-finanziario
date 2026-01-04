@@ -32,7 +32,7 @@ export const courseSections: CourseSection[] = [
     courses: [
       {
         slug: "viaggio-barca-vela",
-        title: "Viaggio in Barca a Vela a Panama",
+        title: "Viaggio formativo in Barca a Panama",
         img: "barca1.jpg",
         desc: "Doppia esperienza formativa unica sul mare, per capire di più sulla residenza fiscale a Panama e sulla gestione autonoma dei risparmi.",
         price: "€3.700",
