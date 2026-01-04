@@ -26,9 +26,7 @@ export default function Home() {
             <Link href="/chi-siamo" className={buttonVariants({ variant: "default" }) + " w-full sm:w-auto"}>Chi siamo</Link>
           </div>
 
-          <NewsletterForm />
-
-          <p className="mt-2 text-xs text-zinc-400">Iscrivendoti accetti la nostra informativa privacy.</p>
+         
         </div>
 
         <div className="grid gap-6 max-w-4xl mx-auto">
