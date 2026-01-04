@@ -33,7 +33,7 @@ export const courseSections: CourseSection[] = [
       {
         slug: "viaggio-barca-vela",
         title: "Viaggio in Barca a Vela alle Canarie",
-        img: "https://images.unsplash.com/photo-1534296264129-b318f8140c27?q=80&w=1200&auto=format&fit=crop",
+        img: "barca1.jpg",
         desc: "Un'esperienza formativa unica sul mare per sviluppare mindset e visione.",
         price: "€1.499",
         category: "viaggi-formativi",
