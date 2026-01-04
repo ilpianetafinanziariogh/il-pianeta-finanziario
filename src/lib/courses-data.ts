@@ -32,9 +32,9 @@ export const courseSections: CourseSection[] = [
     courses: [
       {
         slug: "viaggio-barca-vela",
-        title: "Viaggio in Barca a Vela alle Canarie",
+        title: "Viaggio in Barca a Vela a Panama",
         img: "barca1.jpg",
-        desc: "Un'esperienza formativa unica sul mare per sviluppare mindset e visione.",
+        desc: "Doppia esperienza formativa unica sul mare, per capire di più sulla residenza fiscale a Panama e sulla gestione autonoma dei risparmi.",
         price: "€1.499",
         category: "viaggi-formativi",
         duration: "7 giorni",
