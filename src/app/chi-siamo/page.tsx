@@ -18,7 +18,7 @@ export default function AboutPage() {
         <div className="relative w-full">
           <div className="relative h-72 w-full">
             <Image
-              src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=1200&auto=format&fit=crop"
+              src="io.png"
               alt="Paesaggio naturale"
               fill
               className="rounded-lg object-cover"
