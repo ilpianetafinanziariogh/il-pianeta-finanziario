@@ -49,7 +49,7 @@ export default function Home() {
                 </div>
                 <div className="relative h-36 w-full">
                   <Image
-                    src="https://images.unsplash.com/photo-1519801584609-8ee5f072eddd?q=80&w=1200&auto=format&fit=crop"
+                    src="lakasa.jpg"
                     alt="Persone in vacanza su barca a vela"
                     fill
                     className="rounded-md object-cover"
