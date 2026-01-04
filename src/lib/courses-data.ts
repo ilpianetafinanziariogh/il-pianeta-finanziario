@@ -31,7 +31,7 @@ export const courseSections: CourseSection[] = [
     description: "Viaggi formativi per costruire libertà, metodo e visione. Gli investimenti a lungo termine non sono per pochi. Sono per chiunque voglia prendersi responsabilità del proprio futuro.",
     courses: [
       {
-        slug: "viaggio-barca-vela",
+        slug: "viaggio-barca-vela1",
         title: "Viaggio formativo in Barca a Panama",
         img: "barca1.jpg",
         desc: "Doppia esperienza formativa sul mare! Residenza fiscale a Panama e gestione autonoma dei risparmi.",
@@ -43,7 +43,7 @@ export const courseSections: CourseSection[] = [
         longDescription: "Un viaggio trasformativo di 7 giorni in barca a vela nel Mediterraneo. Unisci l'avventura della navigazione a sessioni intensive di crescita personale e finanziaria. Imparerai a prendere decisioni sotto pressione, a lavorare in team e a sviluppare una visione chiara per il tuo futuro finanziario."
       },
       {
-        slug: "viaggio-barca-vela",
+        slug: "viaggio-barca-vela2",
         title: "Viaggio formativo in barca alle canarie",
         img: "barca2.jpg",
         desc: "3 giorni di full immersion per trasformare la tua mentalità.",
