@@ -35,7 +35,7 @@ export const courseSections: CourseSection[] = [
         title: "Viaggio in Barca a Vela a Panama",
         img: "barca1.jpg",
         desc: "Doppia esperienza formativa unica sul mare, per capire di più sulla residenza fiscale a Panama e sulla gestione autonoma dei risparmi.",
-        price: "€1.499",
+        price: "€3.700",
         category: "viaggi-formativi",
         duration: "7 giorni",
         modules: ["Navigazione e leadership", "Sessioni di coaching in mare", "Workshop di pianificazione finanziaria", "Networking con imprenditori"],
