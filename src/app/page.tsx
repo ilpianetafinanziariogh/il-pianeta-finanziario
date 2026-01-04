@@ -14,7 +14,7 @@ export default function Home() {
         <div className="flex flex-col items-center text-center max-w-3xl mx-auto mb-12">
           <Badge className="mx-auto" variant="default">Il Pianeta Finanziario</Badge>
           <h1 className="mt-4 text-4xl font-bold tracking-tight text-white sm:text-5xl">
-            Corsi di Finanza Personale
+            Finanza Personale in Barca a Vela
           </h1>
           <p className="mt-4 text-zinc-300">
             Formazione pratica e accessibile per crescere in equilibrio: benessere psicofisico,
