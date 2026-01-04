@@ -34,7 +34,7 @@ export const courseSections: CourseSection[] = [
         slug: "viaggio-barca-vela",
         title: "Viaggio formativo in Barca a Panama",
         img: "barca1.jpg",
-        desc: "Doppia esperienza formativa unica sul mare, per capire di più sulla residenza fiscale a Panama e sulla gestione autonoma dei risparmi.",
+        desc: "Doppia esperienza formativa sul mare! Residenza fiscale a Panama e gestione autonoma dei risparmi.",
         price: "€3.700",
         category: "viaggi-formativi",
         duration: "7 giorni",
