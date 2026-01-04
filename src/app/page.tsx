@@ -42,7 +42,7 @@ export default function Home() {
               <div className="grid grid-cols-2 gap-4">
                 <div className="relative h-36 w-full">
                   <Image
-                    src="https://images.unsplash.com/photo-1534296264129-b318f8140c27?q=80&w=1200&auto=format&fit=crop"
+                    src="/barca1.jpg"
                     alt="Barca a vela in navigazione sul mare"
                     fill
                     className="rounded-md object-cover"
