@@ -33,7 +33,7 @@ export default function Home() {
           <Card className="overflow-hidden">
             <CardHeader>
               <CardTitle>Viaggi Formativi & mindset</CardTitle>
-              <CardDescription>Viaggi formativi per costruire libertà, metodo e visione.Gli investimenti a lungo termine non sono per pochi.Sono per chiunque voglia prendersi responsabilità del proprio futuro,anche senza essere "tecnico", anche vivendo fuori dagli schemi.</CardDescription>
+              <CardDescription>Viaggi formativi per costruire libertà, metodo e visione.Gli investimenti a lungo termine non sono per pochi.Sono per chiunque voglia prendersi responsabilità del proprio futuro,anche senza essere esperti in finanza, anche vivendo fuori dagli schemi.</CardDescription>
             </CardHeader>
             <CardContent className="space-y-4">
               <div className="grid grid-cols-2 gap-4">
