@@ -17,7 +17,7 @@ export default function Home() {
             Finanza Personale in Barca a Vela
           </h1>
           <p className="mt-4 text-zinc-300">
-             Partecipa di persona in barca o ricevi i contenuti direttamente a casa.
+             Organizza con noi la tua esperienza formativa in barca o ricevi i contenuti direttamente a casa.
           </p>
 
           <div className="mt-6 flex flex-col gap-3 sm:flex-row sm:justify-center">
